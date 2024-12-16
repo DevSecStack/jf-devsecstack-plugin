@@ -1,10 +1,10 @@
-# JFrog CLI DevSecStack Plugin
+# 🐸 JFrog CLI DevSecStack Plugin
 
 The JFrog DevSecStack Plugin is a custom plugin for JFrog CLI that adds DevSec related capabilities to your pipeline. 
 
 ## Features
 
-- Add Cargo (Rust) dependencies to build-info from Cargo.lock file.
+- Add Cargo (🦀 Rust) dependencies to build-info from Cargo.lock file.
 
 ## Installation
 
@@ -33,7 +33,7 @@ To install the plugin, follow these steps:
     ```
 
 
-### Cargo Add Dependencies
+### 🦀 Cargo Add Dependencies
 
 To use the plugin, run the following command:
 
